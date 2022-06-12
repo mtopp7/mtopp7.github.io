@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: mtopp7.github.io
+Token: d36c591d80961883b6f25c79e3da11f3344509caf35786804bc8d2a43e45904f
